@@ -1,5 +1,5 @@
 <div id=header align="center">
-  <img src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" width="250">
+  <img src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" width="400">
   <h1>Hola, Soy Gonzalo Castellino👋🏽👋🏽</h1>
 </div>
 
