@@ -3,7 +3,7 @@
   <h1>Hola, Soy Gonzalo Castellino👋🏽👋🏽</h1>
 </div>
 
-##  👨🏽‍💻 Estudiante en Licenciatura en informática en la Universidad Nacional del Oeste (UNO)
+##  👨🏽‍💻 Estudiante en Lic. en informática en la Universidad Nacional del Oeste (UNO)
 ##  👨🏽‍💻 Estudiante en Tec. en Tecnologías web en la Universidad Nacional del Oeste (UNO)
 
 ### 💻 Lenguajes/Tecnologías:
