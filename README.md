@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="25414590" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/joy-gif-25414590">Joy GIF</a>from <a href="https://tenor.com/search/joy-gifs">Joy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 # 💫 Sobre mi:
 💻Estudiante en Licenciatura en informática en la Universidad Nacional del Oeste (UNO)<br>💻Estudiante en Tecnicatura en Tecnologías web en la Universidad Nacional del Oeste (UNO)
 
